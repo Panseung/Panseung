@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPanseung&count_bg=%23F5A8A8&title_bg=%23B0B0A5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Panseung&theme=radical)
 <br>
 | position       | stack                                                        |
