@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Panseung&theme=radical)
-![로고명](htt[s://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
-![JavaScript](htt[s://img.shields.io/badge/Javascript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+![JavaScript](https://img.shields.io/badge/Javascript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
